@@ -1,33 +1,22 @@
-Write a Java program to perform basic arithmetic operations of two numbers.
-Write a Java program to perform operation (Addition, Subtraction, Multiplication, Division)
-without using third variable.
-Write a Java program to perform Multiplication of two numbers without using * operator.
-Write a Java program to check the year is leap year or not.
-Write a Java program to print multiplication Table (1 to 15).
-Write a Java Program to print ASCII Table.
-Write a Java program to Calculate and Display the sum of 4 digits number.
-Write a Java program to Obtain the sum of first and last digit of four digit number.
-Write a Java program to check whether given number is Armstrong or not.
-Write a Java program to print Fibonacci Series.
-Write a Java program to print Factorial of Number
-Write a Java program to swap two numbers using third variable.
-Write a Java program to swap two numbers without using third variable.
-Write a Java program to calculate the power of Number.
-Write a Java program to find sum of all digits between 10 and 50, which are divisible by 3.
-Write a Java program to find out all odd numbers divisible by 5 from the range of integers
-200 to 800.
-Write a Java Program to read the number and check whether it is divisible by 3 and 5. 
-Write a Java Program to display Subject Name based on room number. If the user enters 604
-then display Java Programming, If the user enters 605 then display Python programming for
-any other input display Invalid input to the user
-Write a Java Program to print the sum of first n numbers. If n is 3 then print the sum of
-1+2+3 to the user. Get n from the user
-Write a Java Program to print the sum of the series 1
-2
-+2
-2
-+3
-2
- up to n terms
-Write a Java Program to print the multiplication table by getting the n from the user.
-Write a Java Program to provide the option of adding two numbers to the user until the user 
+-Write a Java program to perform basic arithmetic operations of two numbers.
+-Write a Java program to perform operation (Addition, Subtraction, Multiplication, Division) without using third variable.
+-Write a Java program to perform Multiplication of two numbers without using * operator.
+-Write a Java program to check the year is leap year or not.
+-Write a Java program to print multiplication Table (1 to 15).
+-Write a Java Program to print ASCII Table.
+-Write a Java program to Calculate and Display the sum of 4 digits number.
+-Write a Java program to Obtain the sum of first and last digit of four digit number.
+-Write a Java program to check whether given number is Armstrong or not.
+-Write a Java program to print Fibonacci Series.
+-Write a Java program to print Factorial of Number
+-Write a Java program to swap two numbers using third variable.
+-Write a Java program to swap two numbers without using third variable.
+-Write a Java program to calculate the power of Number.
+-Write a Java program to find sum of all digits between 10 and 50, which are divisible by 3.
+-Write a Java program to find out all odd numbers divisible by 5 from the range of integers 200 to 800.
+-Write a Java Program to read the number and check whether it is divisible by 3 and 5. 
+-Write a Java Program to display Subject Name based on room number. If the user enters 604 then display Java Programming, If the user enters 605 then display Python programming for any other input display Invalid input to the user
+-Write a Java Program to print the sum of first n numbers. If n is 3 then print the sum of 1+2+3 to the user. Get n from the user
+-Write a Java Program to print the sum of the series 1 2 +2 2 +3 2 up to n terms
+-Write a Java Program to print the multiplication table by getting the n from the user.
+-Write a Java Program to provide the option of adding two numbers to the user until the user 
