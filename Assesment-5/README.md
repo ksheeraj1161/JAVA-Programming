@@ -31,10 +31,10 @@ multithreading.
 Proctor Name as its data members. Store the state of objects of this class in a file. Write another
 class that reads the objects of the Student class from the file. For each object of the class stored
 in the file, check the CGPA of the student.
- If the CGPA of a student exceeds 90, then categorize the
-student grade is “A”. If the CGPA of a student is between 70 and 90, then categorize
+If the CGPA of a student exceeds 90, then categorize the
+student grade is “A”. If the CGPA of a student is between 70 and 90, then categorize
 the student grade is “B”.
- If the CGPA of a student is between 50 and 70, then categorize
+If the CGPA of a student is between 50 and 70, then categorize
 the student grade is “C”.
 
 7, Write a Java program to define a class ‘CovaxinVaccineCamp to store the below mentioned
