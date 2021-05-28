@@ -1,6 +1,6 @@
 # JAVA-Programming
 
-Programs including the concepts of 
+Programs in JAVA including the concepts of 
 
 (1) Arrays 
 
