@@ -1,1 +1,107 @@
-1.Write a Java program to print the third largest number in an array 
+Write a Java program to print the third largest number in an array 
+Read the following details of ‘n’ students using Scanner class methods and display 
+the same. - Registration number ( String) 
+- Name (String that may contain first name, middle name and last name) 
+- CGPA (Floating point number) 
+- Programme Name(String) 
+- School Name (String with multiple words) 
+- Proctor Name (String that may contain first, middle and last names) 
+Write a Java program to sort an array of positive integers of an given array, in the sorted 
+array the value of the first element should be maximum, second value should be minimum 
+value, third should be second maximum, fourth second be second minimum and so on. 
+Write a Java program to separate even and odd numbers of an given array of integers. Put all 
+even numbers first, and then odd numbers. 
+Write a Java program to convert a binary number to decimal number and to 
+decimal number to binary number. 
+Write a Java program to test if the first and the last element of an array of 
+integers are same. The length of the array must be greater than or equal to 2. 
+Test Data: array = 50, -20, 0, 30, 40, 60, 10 
+Sample Output:
+False 
+Write a Java program to test if the first and the last element of two array of 
+integers are same. The length of the array must be greater than or equal to 
+Test Data: array1 = 50, -20, 0, 30, 40, 60, 12 
+array2 = 45, 20, 10, 20, 30, 50, 11 
+Sample Output:
+false 
+Write a Java program to create a new array of length 2 from two arrays of 
+integers with three elements and the new array will contain the first and last 
+elements from the two arrays Test Data: array1 = 50, -20, 0 
+array2 = 5, -50, 10 
+Sample Output:
+Array1: [50, -20, 0] 
+Array2: [5, -50, 10] 
+New Array: [50, 10] 
+ Write a Java program to test that a given array of integers of length 2 
+contains a 4 or a 7. 
+Sample Output:
+Original Array: [5, 7] 
+true 
+ Write a Java program to rotate an array (length 3) of integers in left direction. 
+Sample Output:
+Original Array: [20, 30, 40] 
+Rotated Array: [30, 40, 20] 
+Write a Java program to get the larger value between first and last element of 
+an array (length 3) of integers . 
+Sample Output:
+Original Array: [20, 30, 40] 
+Larger value between first and last element: 40 
+Write a Java program to swap the first and last elements of an array (length 
+must be at least 1) and create a new array. 
+ Sample Output:
+Original Array: [20, 30, 40] 
+New array after swaping the first and last elements: [40, 30, 
+20] Write a Java program to find the largest element between first, last, and 
+middle values from an array of integers (even length). 
+ Sample Output:
+Original Array: [20, 30, 40, 50, 67] 
+Largest element between first, last, and middle values: 67 
+Write a Java program to multiply corresponding elements of two arrays of 
+integers. 
+Sample Output:
+Array1: [1, 3, -5, 4] 
+ 
+Array2: [1, 4, -5, -2] 
+Result: 1 12 25 -8 
+Write a Java program to add two matrix. 
+Write a Java program to multiply two matrix. 
+Write a Java program to Calculate diagonal element. 
+Write a Java Program to print this pattern for n lines 
+ 1 
+12 
+123 
+1234 
+1234 
+123 
+12 
+1 
+Write a program to demonstrate the knowledge of students in multidimensional arrays 
+and looping constructs. Eg., If there are 4 batches in BTech - “CSE1007” course, read the count of the slow 
+learners (who have scored <25) in each batch. Tutors should be assigned in the ratio of 
+1:4 (For every 4 slow learners, there should be one tutor). Determine the number of 
+tutors for each batch. Create a 2-D jagged array with 4 rows to store the count of slow 
+learners in the 4 batches. The number of columns in each row should be equal to the 
+number of groups formed for that particular batch ( Eg., If there are 23 slow learners in 
+a batch, then there should be 6 tutors and in the jagged array, the corresponding row 
+should store 4, 4, 4, 4, 4,3). Use for-each loop to traverse the array and print the details. 
+Also print the number of batches in which all tutors have exactly 4 students. 
+There are 12 10 and 8 instructional days for a particular course before CAT-1, CAT-2 and Termend 
+examinations respectively. Declare a 2-dimensional jagged array with 3 rows to store the entire 
+attendance details of a single student in that course, where in the first row must have 12 elements, 
+second row- 10 elements and third row- 8 elements. Assuming the array elements contain any of the 2 
+values ‘1’ / ‘0’ denoting Present/Absent, Write a Java program to evaluate the attendance percentage 
+for his CAT-1, CAT-2 and Term-end period (all the three terms taken together). Use enhanced-for 
+loops to traverse the array. 
+Write a Java program with class definition for ‘Employee’ with emp-name, emp-id, salary and 
+joining-date and required methods as members of the class. Create an array of objects of ‘emp’ for 
+‘n’ number of employees in VIT. Write a Java program to display the emp-name and emp-id of 
+employees who have salary less than INR100000 and sort the emp-name and display the Employee 
+details based on salary in ascending order.
+Write a Java program to find the sum of the elements of a two dimensional array of integers 
+and floating point numbers with method overloading. 
+Consider an example of declaring the examination result. Design three classes: Student, 
+Exam and Result. The Student class has data members such as registration number, name etc. 
+Create a class Exam by inheriting the student class. The Exam class adds data members 
+representing the marks scored in six subjects. Derive class Result from the Exam class and it 
+has own data members such as total_marks. Write an interactive program in Java to model 
+this relationship
